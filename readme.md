@@ -1,1 +1,3 @@
 This will contains my all scripts for oscp...
+
+linux/group-priv-esc.bash - contains script for priv esc by leverging group access user have.
